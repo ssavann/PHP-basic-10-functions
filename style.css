@@ -1,0 +1,13 @@
+#site {
+	width: 50%;
+	margin: 100px auto;
+}
+
+
+.champ1 {
+	background: yellow;
+}
+
+.champ2 {
+	background: orange;
+}
